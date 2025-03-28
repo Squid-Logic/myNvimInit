@@ -1,0 +1,6 @@
+require("Config.remap")
+require("Config.lazy")
+require("Config.nfc")
+require("Config.ts")
+require("Config.set")
+require("Config.tele")

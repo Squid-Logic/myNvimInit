@@ -1,2 +1,2 @@
-require("Luis")
+require("Config")
 
